@@ -3,9 +3,6 @@ import { seedDatabase } from '@/lib/db/seed';
 
 export async function GET(req: NextRequest) {
 
-  if (process.env.NODE_ENV === 'production') {
-    return Response.json({ error: 'Seed endpoint disabled in production' }, { status: 403 });
-  }
 
   try {
     const result = await seedDatabase();
