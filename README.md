@@ -56,7 +56,10 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-**Important:** Click the **"Seed DB"** button in the top right corner of the app to populate your MongoDB with initial sample data!
+
+🌐 **Live Demo:** You can also view the deployed project here: [https://ai-sdk-iota-wheat.vercel.app/](https://ai-sdk-iota-wheat.vercel.app/)
+
+**Important:** Whether running locally or on the live demo, click the **"Seed DB"** button in the top right corner of the app to populate your MongoDB with initial sample data!
 
 ## 🚀 Deployment (Vercel)
 
