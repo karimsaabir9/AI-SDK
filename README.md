@@ -61,13 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 **Important:** Whether running locally or on the live demo, click the **"Seed DB"** button in the top right corner of the app to populate your MongoDB with initial sample data!
 
-## 🚀 Deployment (Vercel)
-
-This project is optimized for deployment on Vercel. 
-1. Push your code to GitHub.
-2. Import the repository in your Vercel Dashboard.
-3. Add the three Environment Variables (`OPENAI_API_KEY`, `MONGODB_URI`, `TMDB_API_TOKEN`).
-4. Click **Deploy**!
 
 ---
 *Built with ❤️ for the Dugsiiye Mentorship Program.*
